@@ -1,0 +1,82 @@
+# Core dependencies
+numpy==1.24.3
+pandas==2.0.3
+scipy==1.11.1
+
+# Machine Learning and Deep Learning
+torch==2.0.1
+tensorflow==2.13.0
+scikit-learn==1.3.0
+stable-baselines3==2.0.0
+gymnasium==0.28.1
+
+# Natural Language Processing
+transformers==4.30.2
+spacy==3.6.0
+nltk==3.8.1
+textblob==0.17.1
+
+# Financial Data and APIs
+yfinance==0.2.18
+pykiteconnect==4.2.0
+alpha-vantage==2.3.1
+fredapi==0.5.1
+
+# Data Processing and Storage
+sqlalchemy==2.0.19
+psycopg2-binary==2.9.7
+pymongo==4.4.1
+redis==4.6.0
+
+# Web Framework and API
+flask==2.3.2
+flask-cors==4.0.0
+flask-sqlalchemy==3.0.5
+requests==2.31.0
+aiohttp==3.8.5
+
+# Message Queue
+pika==1.3.2
+celery==5.3.1
+
+# Visualization and Monitoring
+matplotlib==3.7.2
+plotly==5.15.0
+dash==2.11.2
+streamlit==1.25.0
+
+# Utilities
+python-dotenv==1.0.0
+schedule==1.2.0
+pytz==2023.3
+tqdm==4.65.0
+
+# Testing
+pytest==7.4.0
+pytest-asyncio==0.21.1
+
+# Options pricing
+py_vollib==1.0.1
+QuantLib==1.31
+
+# Technical Analysis
+ta-lib==0.4.25
+
+
+# Additional NLP and Sentiment Analysis
+vaderSentiment==3.3.2
+tweepy==4.14.0
+praw==7.7.1
+feedparser==6.0.10
+newspaper3k==0.2.8
+
+# Additional Financial Libraries
+backtrader==1.9.78.123
+zipline-reloaded==2.2.0
+
+# Additional Utilities
+python-dateutil==2.8.2
+click==8.1.6
+structlog==23.1.0
+prometheus-client==0.17.1
+
